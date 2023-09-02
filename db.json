@@ -2,7 +2,7 @@
   "resultado": [
     {
       "id": 1,
-      "name": "true"
+      "type": "true"
     }
   ]
 }
